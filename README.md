@@ -1,10 +1,10 @@
-# This is a simple implementation of MOE
+# This is a simple implementation of MoE
 
-# Dense MOE 
+# Dense MoE 
 <img src="images/dense_MOE.png" width=800>
 
-# Sparse MOE
+# Sparse MoE
 <img src="images/sparse_MOE.png" width=800>
 
-# Deepseek MOE
+# Deepseek MoE
 <img src="images/shared_expert_MOE.png" width=800>
